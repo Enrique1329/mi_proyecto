@@ -1,5 +1,4 @@
-# Proyecto Colaborativo - Conflicto resuelto por Emerson
-
+# Proyecto Colaborativo - Unificado por Emerson
 ## Integrantes del Equipo:
 * Emerson Enrique Acaro Loaiza
 * Andy Gabriel Portilla Avilés
