@@ -1,4 +1,4 @@
-# Proyecto Colaborativo - Unificado por Emerson
+# Proyecto Colaborativo Finalizado: Contribuciones de Emerson, Andy y Jerson
 ## Integrantes del Equipo:
 * Emerson Enrique Acaro Loaiza
 * Andy Gabriel Portilla Avilés
