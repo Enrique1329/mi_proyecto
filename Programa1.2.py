@@ -1,6 +1,6 @@
 import mysql.connector
 from datetime import datetime
-
+# Este es el código principal del proyecto
 class Usuario:
     def __init__(self, nombre_usuario, contrasena):
         self.__nombre_usuario = nombre_usuario
