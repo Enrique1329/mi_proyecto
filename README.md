@@ -1,4 +1,4 @@
-# Práctica 3.1
+# Proyecto Colaborativo
 
 ## Integrantes del Equipo:
 * Emerson Enrique Acaro Loaiza
